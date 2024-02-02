@@ -28,11 +28,9 @@ public class A240201 {
         System.out.print("입력하실 정수의 갯수를 적으세요 : ");
         int num = sc.nextInt();
 
-        int stor = num;
-
         System.out.println(num + "개의 정수를 출력합니다 : ");
 
-        for (int i = 1; i <= stor; i++) {
+        for (int i = 1; i <= num; i++) {
 
             System.out.print(i + " ");
         }
@@ -42,7 +40,7 @@ public class A240201 {
         System.out.println(num + "개의 정수를 역순으로 출력합니다. : ");
 
 
-        for (int j = stor; j >= 1; j--) {
+        for (int j = num; j >= 1; j--) {
 
             System.out.print(j + " ");
         }
