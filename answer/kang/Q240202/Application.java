@@ -1,5 +1,7 @@
 package com.ohgiraffers.answer.kang.Q240202;
 
+import java.util.Scanner;
+
 public class Application {
 
     public static void main(String[] args) {
@@ -23,7 +25,22 @@ public class Application {
          *     프로그램을 종료합니다.
          * */
 
-        SpinSort ss = new SpinSort();
-        ss.scanNum();
+        System.out.print("임의의 정수를 입력하세요 : ");
+        Scanner sc = new Scanner(System.in);
+        int num = sc.nextInt();
+
+        int [][] arr = new int[num][num];
+
+        for (int step = num;
+
+        for (int i = 0; i < arr.length; i++) {
+
+            for (int j = 0; j < arr[i].length; j++) {
+
+                System.out.print(arr[i][j] + " ");
+            }
+
+            System.out.println();
+        }
     }
 }
