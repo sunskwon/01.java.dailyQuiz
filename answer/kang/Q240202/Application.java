@@ -31,7 +31,7 @@ public class Application {
 
         int [][] arr = new int[num][num];
 
-        for (int step = num;
+
 
         for (int i = 0; i < arr.length; i++) {
 
