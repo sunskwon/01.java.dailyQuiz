@@ -11,7 +11,7 @@ public class Application {
             public int getAmount() {return amount;}
             public void setAmount(int amount) {this.amount = amount;}}
 
-        class Ballpen { // 볼펜
+        class BallPen { // 볼펜
             private int amount; // 남은 량
             private String color; // 볼펜의 색
             public int getAmount() {return amount;}

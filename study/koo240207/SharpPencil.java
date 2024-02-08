@@ -4,10 +4,14 @@ public class SharpPencil extends Pen {
 
     private int width;
 
-//    public SharpPencil() {
-//
-//    }
-//
-//    public SharpPencil()
+    public SharpPencil() {
 
+    }
+
+    public SharpPencil(int amount, int width) {
+
+        super(amount);
+
+        this.width = width;
+    }
 }

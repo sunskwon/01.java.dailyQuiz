@@ -8,6 +8,11 @@ public class Pen {
 
     }
 
+    public Pen(int amount) {
+
+        this.amount = amount;
+    }
+
     public void setAmount(int amount) {
 
         this.amount = amount;
