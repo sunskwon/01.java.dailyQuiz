@@ -1,7 +1,6 @@
 package com.ohgiraffers.practice;
 
 import java.util.Scanner;
-import java.util.Stack;
 
 public class Application25 {
 
