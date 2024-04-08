@@ -65,9 +65,9 @@ public class Application26 {
 
             int temp = 0;
 
-            for (int i = 0; i < arr.length; i++) {
-                if (temp + arr[i] <= b) {
-                    temp += arr[i];
+            for (int item : arr) {
+                if (temp + item <= b) {
+                    temp += item;
                 } else {
                     if (max < temp) {
                         max = temp;
@@ -83,11 +83,9 @@ public class Application26 {
         }
     }
 
-    public int[] swap (int[] arr, int i, int j) {
+    public void swap (int[] arr, int i, int j) {
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
-
-        return arr;
     }
 }
