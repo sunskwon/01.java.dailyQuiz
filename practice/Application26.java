@@ -61,7 +61,7 @@ public class Application26 {
 
     public void permutation(int[] arr, int start, int b) {
 
-        if (start == arr.length) {
+        if (start == arr.length - 1) {
 
             int temp = 0;
 
