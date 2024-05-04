@@ -1,6 +1,7 @@
 package com.ohgiraffers.struct;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class Application5 {
@@ -41,7 +42,18 @@ public class Application5 {
 
         System.out.println("데이터 : ");
         sc.nextLine();
-        ArrayList<Struct5> arr = new ArrayList;
+        ArrayList<Struct5> arr = new ArrayList();
+        for (int i = 0; i < n; i++) {
+            String input = sc.nextLine();
+            String[] answer = input.split(" ");
 
+            arr.add(new Struct5(answer[0], Integer.parseInt(answer[1]), Integer.parseInt(answer[2]), Integer.parseInt(answer[3])));
+        }
+
+        Collections.sort(arr);
+
+        for (Struct5 schedule : arr) {
+            System.out.println(schedule.getSchedule());
+        }
     }
 }
