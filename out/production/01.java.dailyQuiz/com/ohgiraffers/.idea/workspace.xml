@@ -4,74 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7837e9cf-7dc5-4fba-ad24-becefc6da77a" name="Changes" comment="240508">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/01.java.dailyQuiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/Koo/A240129.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/Koo/A240130.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/Koo/A240131.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/Koo/A240201.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/kang/A240129.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/kang/A240130.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/kang/A240131.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/kang/A240201.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/kang/Q240202/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/answer/kang/Q240202/SpinSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application31.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application32.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/practice/Application9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/quiz/Q240129_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/quiz/Q240129_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/quiz/Q240130.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/quiz/Q240131.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/quiz/Q240201.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/quiz/Q240202.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/quiz/Q240205/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/quiz/Q240205/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/kang240207/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/koo240207/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/koo240207/BallPen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/koo240207/FountainPen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/koo240207/Pen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/koo240207/SharpPencil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/lee240207/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/lee240207/MyFriendDetailInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/lee240207/MyFriendInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/q240207/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.java.dailyQuiz/com/ohgiraffers/study/q240207/Method.class" beforeDir="false" />
-    </list>
+    <list default="true" id="7837e9cf-7dc5-4fba-ad24-becefc6da77a" name="Changes" comment="240525" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,35 +48,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application1.executor": "Run",
-    "Application.Application21.executor": "Run",
-    "Application.Application22.executor": "Run",
-    "Application.Application23.executor": "Run",
-    "Application.Application25.executor": "Run",
-    "Application.Application26.executor": "Run",
-    "Application.Application27.executor": "Run",
-    "Application.Application28.executor": "Run",
-    "Application.Application29.executor": "Run",
-    "Application.Application30.executor": "Run",
-    "Application.Application31.executor": "Run",
-    "Application.Application32.executor": "Run",
-    "Application.Application7.executor": "Run",
-    "Application.Application8.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Lecture/01.java/01.java.dailyQuiz",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application28.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application29.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application30.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application31.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Lecture/01.java/01.java.dailyQuiz&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ohgiraffers.practice" />
@@ -194,7 +128,8 @@
       <workItem from="1715082103155" duration="109000" />
       <workItem from="1715167589364" duration="1115000" />
       <workItem from="1715256635831" duration="30000" />
-      <workItem from="1716637295105" duration="791000" />
+      <workItem from="1716637295105" duration="3857000" />
+      <workItem from="1716704563010" duration="286000" />
     </task>
     <task id="LOCAL-00001" summary="240217">
       <option name="closed" value="true" />
@@ -380,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715168692103</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="240525">
+      <option name="closed" value="true" />
+      <created>1716641605404</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1716641605404</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,6 +362,7 @@
     <MESSAGE value="240428" />
     <MESSAGE value="240506" />
     <MESSAGE value="240508" />
-    <option name="LAST_COMMIT_MESSAGE" value="240508" />
+    <MESSAGE value="240525" />
+    <option name="LAST_COMMIT_MESSAGE" value="240525" />
   </component>
 </project>
