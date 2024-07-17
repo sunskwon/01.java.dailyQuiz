@@ -39,7 +39,7 @@ public class Application13 {
         int r = sc.nextInt();
         int c = sc.nextInt();
 
-        System.out.println(ap.rec(r, c));
+        System.out.println(ap.rec(r, c) % 100000000);
     }
 
     public int rec(int r, int c) {
